@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <div align="center">
-  <!-- Header Animation -->
+ <!-- Header Animation -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=header&text=Hi%20there,%20I'm%20Agaaa!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" />
 
   <!-- Animated Text/Description -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Love+Coding+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Love+Coding+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </div>
 
   <!-- Animated Profile Views Counter -->
