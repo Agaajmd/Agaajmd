@@ -36,7 +36,7 @@
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   
   - 🌱 Currently learning and growing my skills
-  - 💻 Full Stack Developer
+  - 💻 Frontend Developer
   - ⚡ Fun fact: I love blue color
 </div>
 
