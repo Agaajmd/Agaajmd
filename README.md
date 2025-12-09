@@ -1,105 +1,119 @@
-## Hi there 👋
-
 <div align="center">
- <!-- Header Animation -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=header&text=Hi%20there,%20I'm%20Agaaa!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=25" />
 
-  <!-- Animated Text/Description -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Love+Coding+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </div>
+<!-- Clean Minimalist Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,100:c471ed&height=120&section=header" />
 
-  <!-- Animated Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Agaajmd&style=for-the-badge&color=0891B2">
+<br/>
 
-  <!-- Animated Hello -->
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="waving hand">
-    Welcome to my GitHub Profile!
-  </h3>
-</div>
+<!-- Simple Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=12C2E9&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;From+Mojokerto%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;UI%2FUX+Enthusiast+%E2%9C%A8" alt="Typing" />
 
+<br/>
+<br/>
 
-<div align="center">
-  <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=false&width=435&lines=Hello+World!+I'm+Agaaa+%F0%9F%91%8B;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-  
-  
-</div>
+<!-- Clean Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Mojokerto-Indonesia-12c2e9?style=flat&labelColor=1a1a2e00&color=12c2e900&borderWidth=0" alt="Location" />
+</p>
 
-<!-- About Me Section with Animation -->
-<div align="left">
-  <h2>
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
-    About Me
-  </h2>
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  
-  - 🌱 Currently learning and growing my skills
-  - 💻 Frontend Developer
-  - ⚡ Fun fact: I love blue color
-</div>
+<!-- Minimal Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agaajmd&color=12c2e9&style=flat&label=Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Agaajmd?style=flat&color=12c2e9&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Agaajmd?style=flat&color=12c2e9&labelColor=1a1a2e" alt="Stars" />
+</p>
 
-<!-- Connect Section -->
-<h2>
-  <img src="https://media.giphy.com/media/w7CPNNFFaKvJZKxH7n/giphy.gif" width="35"/>
-  Connect With Me
-</h2>
-<div align="left">
-  <a href="https://www.instagram.com/n.agaaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black"/>
+<!-- Beautiful Social Links - Pill Rounded -->
+<p align="center">
+  <a href="https://www.instagram.com/n.agaaa" target="_blank" rel="noopener">
+    <img src="https://custom-icon-badges.demolab.com/badge/-%20@n.agaaa-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="42" style="border-radius:999px;padding:6px;background:#221f2f;" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nur-jagad-muhammad-dani-6a9972287" target="_blank" rel="noopener">
+    <img src="https://custom-icon-badges.demolab.com/badge/-%20Nur_Jagad-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" style="border-radius:999px;padding:6px;background:#0b1220;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Agaajmd" target="_blank" rel="noopener">
+    <img src="https://custom-icon-badges.demolab.com/badge/-%20Agaajmd-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="42" style="border-radius:999px;padding:6px;background:#0b1220;" />
+  </a>
+</p>
+
 </div>
 
-<!-- Skills Section -->
-<h2>
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"/>
-  Tech Stack
-</h2>
-<div align="left">
-  <!-- Frontend -->
-  <h3>🎨 Frontend</h3>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black"/>
+<br/>
+<br/>
 
-  <!-- Backend -->
-  <h3>⚙️ Backend</h3>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=black"/>
-  
-  <!-- Tools -->
-  <h3>🛠️ Tools</h3>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=black"/>
-</div>
-
-<!-- Animated Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
-  My GitHub Stats
-</h2>
-
+<!-- Rounded About Card -->
 <div align="center">
-  <!-- GitHub Stats Cards with Animation -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agaajmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaajmd&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <div style="max-width:820px;background:linear-gradient(180deg, rgba(18,22,28,0.45), rgba(10,12,15,0.35));padding:18px;border-radius:16px;display:flex;align-items:center;gap:20px;backdrop-filter: blur(6px);">
+    <img src="https://avatars.githubusercontent.com/Agaajmd?s=200&v=4" alt="avatar" width="110" style="border-radius:999px;box-shadow:0 10px 30px rgba(0,0,0,0.4);" />
+    <div align="left" style="color:#c9d1d9;">
+      <h2 style="margin:0 0 6px 0">👋 Hi, I'm Agaaa</h2>
+      <p style="margin:0;font-size:14px;opacity:0.95">Frontend Developer • Mojokerto, Indonesia 🇮🇩</p>
+      <p style="margin:6px 0 0 0;font-size:13px;opacity:0.85">I build clean, responsive and aesthetic user interfaces using React, Next.js and Tailwind.</p>
+      <p style="margin:10px 0 0 0">
+        <a href="https://profile-portfolio-aga.vercel.app" target="_blank" rel="noopener">
+          <img src="https://custom-icon-badges.demolab.com/badge/-View%20Portfolio-12c2e9?style=for-the-badge&logo=browser&logoColor=white&labelColor=0d1117" alt="Portfolio" height="34" style="border-radius:999px;" />
+        </a>
+      </p>
+    </div>
+  </div>
 </div>
 
+<br/>
+
+```typescript
+const agaaa = {
+  name: "Agaaa",
+  from: "Mojokerto, Indonesia 🇮🇩",
+  role: "Frontend Developer 💻",
+  focus: "Building Beautiful & Responsive UIs",
+  loves: ["React", "Next.js", "Tailwind CSS", "UI/UX Design"],
+  passion: "Creating aesthetic and functional interfaces ✨"
+};
+```
+
+<br/>
+<br/>
+
+<!-- Tech Stack - Clean & Simple -->
 <div align="center">
-  <!-- Animated Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agaajmd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  
-  <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Agaajmd&theme=react-dark&hide_border=true&radius=16&bg_color=0D1117" alt="Contribution Graph"/>
-  
-  <!-- Animated Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Agaajmd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<h2>🎨 Tech Stack</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue&perline=8" alt="Frontend Skills" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Tools" />
+</p>
+
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer"/>
+<br/>
+<br/>
+
+<!-- GitHub Activity -->
+<div align="center">
+
+
+
+<h2>📊 GitHub Activity</h2>
+
+<!-- Smooth Contribution Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agaajmd&bg_color=ffffff00&color=12C2E9&line=12C2E9&point=12C2E9&area=true&hide_border=true&area_color=12C2E9" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+<br/>
+
+<!-- Simple Footer -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,100:c471ed&height=100&section=footer" />
+
+<p>Made with ❤️ by Agaaa</p>
+
+</div>
