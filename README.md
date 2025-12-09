@@ -46,7 +46,6 @@
 <!-- Rounded About Card -->
 <div align="center">
   <div style="max-width:820px;background:linear-gradient(180deg, rgba(18,22,28,0.45), rgba(10,12,15,0.35));padding:18px;border-radius:16px;display:flex;align-items:center;gap:20px;backdrop-filter: blur(6px);">
-    <img src="https://avatars.githubusercontent.com/Agaajmd?s=200&v=4" alt="avatar" width="110" style="border-radius:999px;box-shadow:0 10px 30px rgba(0,0,0,0.4);" />
     <div align="left" style="color:#c9d1d9;">
       <h2 style="margin:0 0 6px 0">👋 Hi, I'm Agaaa</h2>
       <p style="margin:0;font-size:14px;opacity:0.95">Frontend Developer • Mojokerto, Indonesia 🇮🇩</p>
